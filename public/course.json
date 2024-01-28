@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "cover": "https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?size=626&ext=jpg&ga=GA1.1.632798143.1705795200&semt=ais",
+      "title": "Web Development Bootcamp",
+      "price": 12000,
+      "hour": 3,
+      "details": "Comprehensive course covering HTML, CSS, JavaScript, and more."
+    },
+    {
+      "id": 2,
+      "cover": "https://t3.ftcdn.net/jpg/06/19/76/90/360_F_619769049_pxEEvXT1UjRmsgV7UNGw3RFE1FNMjrOq.jpg",
+      "title": "Python Programming Masterclass",
+      "price": 15000,
+      "hour": 12,
+      "details": "Learn Python from scratch and become a proficient Python developer."
+    },
+    {
+      "id": 3,
+      "cover": "https://www.shutterstock.com/image-vector/javascript-emblem-on-black-background-260nw-1925021480.jpg",
+      "title": "JavaScript Frameworks Deep Dive",
+      "price": 20000,
+      "hour": 4,
+      "details": "In-depth exploration of popular JavaScript frameworks like React, Angular, and Vue."
+    },
+    {
+      "id": 4,
+      "cover": "https://cdn5.vectorstock.com/i/1000x1000/76/04/mobile-app-vector-23357604.jpg",
+      "title": "Mobile App Development with React Native",
+      "price": 16000,
+      "hour": 3,
+      "details": "Build cross-platform mobile apps using React Native and JavaScript."
+    },
+    {
+      "id": 5,
+      "cover": "https://www.shutterstock.com/image-photo/data-science-deep-learning-artificial-260nw-1247255884.jpg",
+      "title": "Data Science and Machine Learning",
+      "price": 80000,
+      "hour": 6,
+      "details": "Explore the world of data science and machine learning with hands-on projects."
+    },
+    {
+      "id": 6,
+      "cover": "https://i.ytimg.com/vi/R6RX2Zx96fE/maxresdefault.jpg",
+      "title": "Full Stack Development with MERN",
+      "price": 70000,
+      "hour": 6,
+      "details": "Build modern web applications with MongoDB, Express, React, and Node.js."
+    },
+    {
+      "id": 7,
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1HTrUl_Q9FyptOfUH81s3poKUsf-7kXL92VbQLOpIeA&s",
+      "title": "Java Programming for Beginners",
+      "price": 4000,
+      "hour": 2,
+      "details": "Introduction to Java programming for beginners with hands-on exercises."
+    },
+    {
+      "id": 8,
+      "cover": "https://res.cloudinary.com/practicaldev/image/fetch/s--2XdEnCAM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://raw.githubusercontent.com/sandeepkumar17/td-dev.to/di-collection-posts/assets/blog-cover/c-sharp.png",
+      "title": "C# .NET Core Mastery",
+      "price": 10000,
+      "hour": 3,
+      "details": "Master C# programming and .NET Core development for building robust applications."
+    },
+    {
+      "id": 9,
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEHCWAgWxrA-MH-iOmEXGZA6ZzQqQ9kPIgCF00O7J_-g&s",
+      "title": "Blockchain Fundamentals",
+      "price": 18000,
+      "hour": 9,
+      "details": "Understand the basics of blockchain technology and its applications."
+    }
+  ]
+  
